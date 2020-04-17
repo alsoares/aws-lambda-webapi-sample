@@ -1,0 +1,1 @@
+baseado em: https://medium.com/@ravi.aakula/aws-serverless-application-model-for-asp-net-core-apps-1ce03e0e389d
